@@ -1,4 +1,4 @@
-### Hi there I'm Ahmet👋
+### Hi there I'm Ahmet and I'm a frontend developer👋 
 
 - 🔭 I’m currently working on vanilla javascript
 - 🌱 I’m currently learning React
